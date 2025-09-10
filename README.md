@@ -207,7 +207,7 @@ Skip this, if you're not using GRUB2, otherwise do you have an entry in your GRU
 *******************************************************************************
 It is set to 5.
 
-`grub,5,Free Software Foundation,grub,@@VERSION@@,https//www.gnu.org/software/grub/`
+`grub,5,Free Software Foundation,grub,2.12,https//www.gnu.org/software/grub/`
 
 *******************************************************************************
 ### Were old shims hashes provided to Microsoft for verification and to be added to future DBX updates?
