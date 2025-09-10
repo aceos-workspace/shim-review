@@ -38,8 +38,6 @@ NASDAQ: Tencent Holdings Ltd. (TCTZF) https://www.nasdaq.com/market-activity/sto
 The public details of both your organization and the issuer in the EV certificate used for signing .cab files at Microsoft Hardware Dev Center File Signing Services.  
 (**not** the CA certificate embedded in your shim binary)
 
-Example:
-
 ```
 Issuer:
 CN = DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1
