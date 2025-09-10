@@ -73,7 +73,7 @@ The security contacts need to be verified before the shim can be accepted. For s
 An authorized reviewer will initiate contact verification by sending each security contact a PGP-encrypted email containing random words.
 You will be asked to post the contents of these mails in your `shim-review` issue to prove ownership of the email addresses and PGP keys.
 *******************************************************************************
-- Name: Bingkan Wang
+- Name: Asuka Wang
 - Position: Software Engineer
 - Email address: asukawang@tencent.com
 - PGP key fingerprint: [849A 8C33 CEBC 8494 61C3  9B92 322E 12EF 1D8D A9F8](https://keys.openpgp.org/search?q=asukawang%40tencent.com)
