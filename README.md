@@ -64,7 +64,7 @@ Tencent AceOS is a commercial operating system. In order for our large amount of
 *******************************************************************************
 ### Why are you unable to reuse shim from another distro that is already signed?
 *******************************************************************************
-TencentOS wants to build a trusted operating system with Secure Boot from shim, grub, kernel to kernel modules. As we are using our custom kernel with some features for our products, we need a signed shim with our certificate such that we can sign the kernel and bootloaders to keep Secure Boot on.
+Tencent AceOS wants to build a trusted operating system with Secure Boot from shim, grub, kernel to kernel modules. As we are using our custom kernel with some features for our products, we need a signed shim with our certificate such that we can sign the kernel and bootloaders to keep Secure Boot on.
 
 *******************************************************************************
 ### Who is the primary contact for security updates, etc.?
