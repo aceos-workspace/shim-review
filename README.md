@@ -23,7 +23,7 @@ Here's the template:
 ### What organization or people are asking to have this signed?
 *******************************************************************************
 Organization name and website:  
-Tencent Holdings Ltd: https://www.tencent.com/c
+Tencent Holdings Ltd: https://www.tencent.com/
 
 *******************************************************************************
 ### What's the legal data that proves the organization's genuineness?
